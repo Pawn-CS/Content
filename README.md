@@ -1,6 +1,6 @@
-# Pawn_CS Team Cybersecurity Blog  
+# Pawn-CS Team Cybersecurity Blog  
 
 Welcome to **PawnCS**, a blog where we share our team's research on cybersecurity and ethical hacking.  
 
 ## Team Members  
-- **Quinn Nguyen** – Printer Fixer  
+**Quinn Nguyen** – Printer Fixer  
