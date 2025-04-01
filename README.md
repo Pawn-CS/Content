@@ -1,4 +1,3 @@
-# Pawn-CS Team Cybersecurity Blog  
 
 Welcome to **PawnCS**, a blog where we share our team's research on cybersecurity and ethical hacking.  
 
